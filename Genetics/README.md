@@ -3,6 +3,17 @@
 Population genetics applications.
 
 
+### [Population genetics jobs](PopGen/)
+
+- Fst calculatons,
+- Window-based estimates of diversity (pi and tajD),
+- Window-based conversion from plink tyo;
+- treemix replicates consensus tree extraction ;
+- Demogaphic simulations using SLiM - alternative 2 population scenarios with and without positive a$
+- ePSMC demographic inference and selfing-rate estimation ;
+- ABC inference;
+
+
 ### FST/
 - Fst calculatons,
 

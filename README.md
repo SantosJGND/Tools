@@ -6,12 +6,12 @@ This repo comprises tools of day to day use that are too specific, or too simple
 
 Related to processing, management of data or Data Summary. Some complement existing bioinformatics pipelines. 
 
-- [README.md](https://github.com/SantosJGND/Tools/Bioinformatics)
+- [README.md](https://github.com/SantosJGND/Tools/tree/main/Bioinformatics)
 
 ## Genetics
 
 Tools for the analysis, modelling, statistical summary of genetic data.
 
-- [README.md](https://github.com/SantosJGND/Tools/Genetics)
+- [README.md](https://github.com/SantosJGND/Tools/tree/main/Genetics)
 
 
