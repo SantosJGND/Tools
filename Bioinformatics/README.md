@@ -1,4 +1,8 @@
 
+### [fastq management](fastq_management/)
+
+Fastq filters.
+
 ### [contig bridging using reads](bridge_contigs/)
 
 Map reads to assembly, find reads that bridge contigs.Find *contig connected components*; summary statistics.
